@@ -40,6 +40,4 @@ The underlying schema follows a normalized relational structure, including core 
 - Structured for future integration with visualization tools like Power BI or Tableau.
 
 ## Credits
-
-- SQL logic adapted from educational content by Rishabh Mishra (YouTube: RishabhMishraOfficial)
 - Schema based on a commonly used music store dataset for SQL tutorials
